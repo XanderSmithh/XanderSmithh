@@ -1,5 +1,31 @@
-My name is Xander. I'm a recent Diploma of Advanced Programming graduate, and I enjoy working on C# projects as I continue to expand my knowledge and skills! 
+# Hi, I'm Xander
 
-- 🔭 I’m currently working on a project called [MyReads](https://github.com/XanderSmithh/MyReads). It’s a WPF application designed to help to store Records allowing me to extend my skills in databases and, in the future, advanced search engines.
+I'm a Diploma of Advanced Programming graduate with a strong focus on C# development. I enjoy building practical applications and improving my skills through hands-on projects.
 
-- 📫 Contact: Xandersmith077@gmail.com 
+---
+
+## Current Project
+
+**[MyReads](https://github.com/XanderSmithh/MyReads)**  
+A WPF application that helps me grow my experience with database integration and advanced search functionality.
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## Contact
+
+**Email:** Xandersmith077@gmail.com
