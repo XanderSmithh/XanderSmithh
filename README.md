@@ -26,6 +26,6 @@ A WPF application that helps me grow my experience with database integration and
 
 ---
 
-## Contact
+## Contact:
 
 **Email:** Xandersmith077@gmail.com
