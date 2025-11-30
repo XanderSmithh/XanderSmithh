@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there :)
 
-<!--
-**XanderSmithh/XanderSmithh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Xander, a recent Diploma of Advanced Programming graduate with a strong passion for C# development and building real-world applications. I enjoy working on projects that challenge me and help expand my skills.
+________________________________________________________________________________________________________________________________________________________________
+Current Project
 
-Here are some ideas to get you started:
+I’m currently working on a project called [MyReads](https://github.com/XanderSmithh/MyReads). It's a WPF application focused on improving my skills in database integration and, in the future, advanced search engine functionality.
+________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning & Growth
+
+I'm actively expanding my knowledge and exploring new technologies. My goals for the upcoming months include:
+- Advanced search engine development
+- Artificial intelligence chatbot development
+- Improving or learning additional programming languages:
+  - Python
+  - C++
+  - JavaScript
+________________________________________________________________________________________________________________________________________________________________
+
+Contact
+- You can reach me at:
+  - Email: Xandersmith077@gmail.com
+  - Work Contact Number: 0404 117 807
