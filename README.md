@@ -1,6 +1,6 @@
 # Hi, I'm Xander
 
-I'm a Diploma of Advanced Programming graduate with a strong focus on C# development. I enjoy building practical applications and improving my skills through hands-on projects.
+I’m a recent Diploma of Advanced Programming graduate with a strong focus on full-stack development. I enjoy building unique and engaging applications while improving my skills through hands-on projects.
 
 ---
 
