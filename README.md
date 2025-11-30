@@ -23,9 +23,3 @@ A WPF application I’m building to manage a personal book library. It helps me 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
----
-
-## Contact:
-
-**Email:** Xandersmith077@gmail.com
