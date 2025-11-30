@@ -7,7 +7,7 @@ I'm a Diploma of Advanced Programming graduate with a strong focus on C# develop
 ## Current Project:
 
 **[MyReads](https://github.com/XanderSmithh/MyReads)**  
-A WPF application that helps me grow my experience with database integration and advanced search functionality.
+A WPF application that allows me to manage records helping grow my experience with database integration and advanced search functionality.
 
 ---
 
