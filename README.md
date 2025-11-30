@@ -4,14 +4,14 @@ I'm a Diploma of Advanced Programming graduate with a strong focus on C# develop
 
 ---
 
-## Current Project
+## Current Project:
 
 **[MyReads](https://github.com/XanderSmithh/MyReads)**  
 A WPF application that helps me grow my experience with database integration and advanced search functionality.
 
 ---
 
-## Tech Stack
+## Tech Stack:
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
